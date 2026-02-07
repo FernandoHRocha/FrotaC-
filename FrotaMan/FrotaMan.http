@@ -1,0 +1,6 @@
+@FrotaMan_HostAddress = http://localhost:5047
+
+GET {{FrotaMan_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
